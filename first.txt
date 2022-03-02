@@ -1,4 +1,12 @@
 today is tuesday
+<<<<<<< HEAD
 month is march
 year is 2022
 pushpa is a good movie
+=======
+month is march 
+year is 2022
+an apple a day keeps doctor away
+cat has 9 lives
+virat is a good player
+>>>>>>> branch-1
